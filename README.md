@@ -1,0 +1,2 @@
+# AIDLBridge
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4a3e37811524c97b248e2199ba7e40d)](https://app.codacy.com/manual/motonejorge/AIDLBridge?utm_source=github.com&utm_medium=referral&utm_content=motonejorge/AIDLBridge&utm_campaign=Badge_Grade_Settings)
